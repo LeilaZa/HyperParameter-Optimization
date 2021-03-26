@@ -1,4 +1,4 @@
-# Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning
+# Search Algorithms for Automated Hyper-Parameter Tuning in Machine Learning
 
 This code provides a simple HPO implementation (Grid and Random search) for machine learning models, as described in the paper "Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning".  
 
