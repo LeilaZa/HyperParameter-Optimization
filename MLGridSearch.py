@@ -5,13 +5,6 @@ Created on Mon Apr 13 12:54:27 2020
 @author: Leila Zahedi
 """
 
-#--------------------
-
-X = pd.read_csv('dataset.csv')
-directory= 'results_NB_LR_DT'
-#students.drop(['registered terms'], axis=1, inplace=True)
-
-
 #-------------------------------------------------------------------------------------------------------------------------
 #--------------------------------Baseline Machine Learning models: Classifiers with Grid Search---------------------------
 #-------------------------------------------------------------------------------------------------------------------------
