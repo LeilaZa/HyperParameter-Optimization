@@ -43,7 +43,7 @@ Please dont hesitate to contact me:
 * LinkedIn: [Leila Zahedi](https://www.linkedin.com/in/leilaazahedi/)
 
 ## Citation
-If you find this codes helpful, please cite the article:  
+If this codes helped you in your research, please cite the article:  
 
 Zahedi, L., Mohammadi, F. G., RezaPour, S., Amini, M. H.,(2021). Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning. In Computer Science, Computer Engineering, & Applied Computing (pp. 1-10). Springer Nature.
 
