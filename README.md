@@ -1,6 +1,6 @@
 # Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning
 
-This code provides a simple HPO implementation for machine learning models, as described in the paper "Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning".  
+This code provides a simple HPO implementation (Grid and Random search) for machine learning models, as described in the paper "Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning".  
 
 This paper will help users to improve their machine learning models by optimizing their models' hyper-parameter automatically.
 
@@ -18,7 +18,7 @@ Sample code for hyper-parameter optimization implementation for machine learning
 **Dataset used:** [MIDFIELD](https://engineering.purdue.edu/MIDFIELD)   
 
 ### Machine Learning Models 
-* Naive Bayes
+* Naive Bayes (NB)
 * Logistic Regression (LR)
 * Decision Tree (DT)
 * Random forest (RF)
