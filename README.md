@@ -12,9 +12,9 @@ Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning
 Sample code for hyper-parameter optimization implementation for machine learning algorithms is provided in this repository.  
   
 ### Classification problems 
-* [Grid-Classification.ipynb](https://github.com/LeilaZa/HyperParameter-Optimization/blob/main/MLGridSearch.py) 
+* [Grid-Classification](https://github.com/LeilaZa/HyperParameter-Optimization/blob/main/MLGridSearch.py) 
 
-* [Random-Classification.ipynb](https://github.com/LeilaZa/HyperParameter-Optimization/blob/main/MLRandomSearch.py)   
+* [Random-Classification](https://github.com/LeilaZa/HyperParameter-Optimization/blob/main/MLRandomSearch.py)   
 
 **Dataset used:** [MIDFIELD](https://engineering.purdue.edu/MIDFIELD)   
 
