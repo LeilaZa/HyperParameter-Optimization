@@ -1,38 +1,48 @@
-This code provides HPO implementation for ML models, as described in the paper "Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning".
+# Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning
 
-Tuning yperparameters of a machine learning model can significantly imporive the performance.
+This code provides a simple HPO implementation for machine learning models, as described in the paper "Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning".  
 
-This code   will help users to better understand how to improve the performance of their models by effectively tuning the hyper-parameters.
+This paper will help users to improve their machine learning models by optimizing their models' hyper-parameter automatically.
+
+## Paper
+Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning
+[paper link](https://link)  
+
+## Implementation
+Sample code for hyper-parameter optimization implementation for machine learning algorithms is provided in this repository.  
+  
+### Classification problems 
+[Grid-Classification.ipynb](https://github.com/LeilaZa/HyperParameter-Optimization/blob/master/Grid_Classification.ipynb) 
+[Random-Classification.ipynb](https://github.com/LeilaZa/HyperParameter-Optimization/blob/master/Random_Classification.ipynb)   
+
+**Dataset used:** [MIDFIELD](https://engineering.purdue.edu/MIDFIELD)   
+
+### Machine Learning Models 
+* Naive Bayes
+* Logistic Regression (LR)
+* Decision Tree (DT)
+* Random forest (RF)
+* Support vector machine (SVM)
+* K-nearest neighbor (KNN)  
+* XGBoost (XGB)
+
+### HPO Methods Leverages  
+* Grid search
+* Random search
+
+### Requirements  
+* Python 3.7  
+* [scikit-learn](https://scikit-learn.org/stable/)  
 
 
-Paper: Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning
-Link : 
+## Contact-Info
+Please dont hesitate to contact me: 
+* Email: [lzahe001@fiu.edu](mailto:lzahe001@fiu.edu)
+* GitHub: [LeilaZahedi](https://github.com/LeilaZa)
+* LinkedIn: [Leila Zahedi](https://www.linkedin.com/in/leilaazahedi/)
 
-Sample code for Classification:
-Link : 
-Dataset: MIDFIELD
+## Citation
+If you find this codes helpful, please cite the article:  
 
-
-Machine Learning Models:
-Naive Bayes
-Decision Tree
-Logistic Regression
-Random Forest
-XGBoost
-K-Nearest Neighbors
-Support Vector Machine 
-
-HPO Method:
-Grid Search
-Random Search
-
-Requirements:
-Python 3.7
-Scikit-Learn
-
-
-Contact Info:
-Lzahe001@fiu.edu
-
-Citation:
+Zahedi, L., Mohammadi, F. G., RezaPour, S., Amini, M. H.,(2021). Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning. In Computer Science, Computer Engineering, & Applied Computing (pp. 1-10). Springer Nature.
 
