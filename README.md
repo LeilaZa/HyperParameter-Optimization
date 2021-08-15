@@ -6,7 +6,7 @@ This paper will help users to improve their machine learning models by optimizin
 
 ## Paper
 Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning
-[paper link](https://link)  
+[paper link](https://arxiv.org/pdf/2104.14677.pdf)  
 
 ## Implementation
 Sample code for hyper-parameter optimization implementation for machine learning algorithms is provided in this repository.  
