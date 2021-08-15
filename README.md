@@ -45,5 +45,5 @@ Please dont hesitate to contact me:
 ## Citation
 If this codes helped you in your research, please cite the article:  
 
-Zahedi, L., Mohammadi, F. G., RezaPour, S., Amini, M. H.,(2021). Search Algorithms for AutomatedHyper-Parameter Tuning in Machine Learning. In Computer Science, Computer Engineering, & Applied Computing (pp. 1-10). Springer Nature.
+L. Zahedi, F. G. Mohammadi, S. Rezapour, M. W. Ohland, and M. H.Amini, “Search algorithms for automated hyper-parameter tuning,”The 17th International Conference on Data Science, 2021.
 
