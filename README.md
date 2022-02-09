@@ -25,7 +25,7 @@ Sample code for hyper-parameter optimization implementation for machine learning
 * Random forest (RF)
 * Support vector machine (SVM)
 * K-nearest neighbor (KNN)  
-* XGBoost (XGB)
+* Extreme Gradient Boosting (XGBoost)
 
 ### HPO Methods Leverages  
 * Grid search
